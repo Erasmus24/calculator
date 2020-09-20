@@ -9,9 +9,8 @@
   color: #ffffff;
   padding: 0.5em;
   outline: 1px solid #888888;
-
+  border-radius: 25px 25px 0 0;
+  outline: none;
 }
 
-.input:hover{
-  cursor: pointer;
-}
+
